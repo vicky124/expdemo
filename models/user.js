@@ -1,0 +1,55 @@
+class UserModel {
+	constructor(user){
+    this.id = user.id;
+    // tourid: number;
+    this.firstname = user.firstname;
+    this.lastname =  user.lastname;
+    // // // //  salutation: string;
+    // // // // // middlename: string;
+    // // // // // nickname: string;
+    // // // // // gender: string;
+    // dob: any;
+    // citizenship: string;
+    // emailid: string;
+    // contactno: number;
+    // altercontactno: number;
+    // streetno: string;
+    // streetname: string;
+    // city: string;
+    // postalcode: string;
+    // state: string;
+    // country: string;
+    // username: string;
+    // password: string;
+    // roompreference: string;
+    // resettoken: string;
+    // candidatecode: string;
+    // status: string;
+    // companyCode: string;
+    // preferredname: string;
+    // schoolname: string;
+    // schoolcity: string;
+    // schoolcountry: string;
+    // schoolgrade: string;
+    // mailingaddressline1: string;
+    // mailingaddressline2: string;
+    // mailingcity: string;
+    // mailingprovince: string;
+    // mailingzip: string;
+    // mailingcountry: string;
+    // physicalcondition: string;
+    // medication: string;
+    // agent: string;
+    // emergencyfirstname: string;
+    // emergencylastname: string;
+    // emergencycontactrelation: string;
+    // emergencyemail: string;
+    // emergencycontactno: string;
+    // govidname1: string;
+    // govidno1: string;
+    // colone: string;
+    // coltwo: string;
+    // colthree: string;
+    // picture: string;
+	}
+}
